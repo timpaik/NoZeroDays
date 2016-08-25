@@ -8,3 +8,9 @@
 
 # IDE files
 .idea/*
+
+# Node Modules
+no_zero_days/static/node_modules/*
+
+# JS distribution
+no_zero_days/static/dist/*
